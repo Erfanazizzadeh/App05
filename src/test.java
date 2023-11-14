@@ -11,4 +11,4 @@ public class test {
            System.out.print(ss+"\t");
        }
     }
-}
+}// out PUt : E r f a n
